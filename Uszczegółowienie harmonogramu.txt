@@ -1,0 +1,9 @@
+Uszczegó³owienie harmonogramu
+
+1. Rozpoczêcie prac – stworzenie szkieletu systemu integruj¹cego.
+2. Wysy³anie i pobieranie z portalu danych dotycz¹cych u¿ytkownika.
+3. Dodanie mo¿liwoœci uzupe³nienia danych pobranych z portalu (lub wprowadzenia ich, jeœli u¿ytkownik nie posiada konta na portalu).
+4. Pobieranie z portalu informacji o grach.
+5. Implementacja funkcji proponowania gier u¿ytkownikowi na podstawie danych pobranych z portalu. 
+6. Pobieranie informacji na temat wybranej gry ze sklepu internetowego z grami.
+7. Prezentacja oferty u¿ytkownikowi.
